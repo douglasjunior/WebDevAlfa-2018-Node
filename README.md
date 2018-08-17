@@ -1,4 +1,4 @@
-# WebDevAlfa-2018
+# WebDevAlfa-2018-Node
 
 ## Desenvolvimento Web com Node JS
 
