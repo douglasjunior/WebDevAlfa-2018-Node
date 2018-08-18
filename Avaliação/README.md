@@ -27,7 +27,7 @@ PUT|http://localhost:3001/api/tarefas/1/concluida|Marcar tarefa como Concluída|
 DEL|http://localhost:3001/api/tarefas/1/concluida|Desmarcar tarefa como Concluída|
 
 Para iniciar, você pode:
-- efetuar o Fork deste projeto;
+- efetuar o Fork do diretório `projeto-backend`;
 - criar um novo projeto utilizando o `express-generator`; ou 
 - criar um novo projeto utilizando qualquer outro meio de sua preferência.
 
@@ -45,7 +45,7 @@ _Não esqueça de assinar o e-mail com o seu nome completo._
 
 ## Instalando as dependências
 
-1. Faça o Clone ou Download deste repositório para o seu computador.
+1. Faça o Clone ou Download do diretório `projeto-backend` para o seu computador.
 
 2. Através do `cmd` ou `git bash` instale as dependências do projeto. 
     ```bash
@@ -59,4 +59,17 @@ Através do `cmd` ou `git bash` execute o comando:
 npm start
 ```
 
-# Dependências
+## Dependências relevantes
+
+|Nome|Descrição|
+|-|-|
+|bcryptjs|https://github.com/dcodeIO/bcrypt.js|
+|express|https://github.com/expressjs/express|
+|express-validator|https://github.com/express-validator/express-validator|
+|jsonwebtoken|https://github.com/auth0/node-jsonwebtoken|
+|moment|https://github.com/moment/moment|
+|mysql2|https://github.com/sidorares/node-mysql2|
+|sequelize|https://github.com/sequelize/sequelize|
+|sqlite3|https://github.com/mapbox/node-sqlite3|
+|cross-env|https://github.com/kentcdodds/cross-env|
+|nodemon|https://github.com/remy/nodemon/|
